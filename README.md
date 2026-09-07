@@ -52,7 +52,7 @@ This project covers the full DevOps lifecycle:
 
 A simple Flask-based REST API designed for containerized deployment.
 
-### API Endpoints
+### API Endpoints:
 
 | Endpoint | Description |
 |---------|-------------|
